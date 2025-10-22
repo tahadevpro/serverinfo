@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 # server_audit.sh - Comprehensive Linux server audit script
+# Fixed: no PPID or other readonly variables overwritten
 # All features enabled by default: CPU, RAM, Disk, SMART, RAID, Network, I/O, Processes, GPU, fio, iperf3
 # No persistent files, everything stored in RAM and cleaned on exit
 

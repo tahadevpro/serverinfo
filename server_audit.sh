@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
-# server_audit.sh
-# Comprehensive Linux server audit script (Human-readable output)
+# server_audit.sh - Comprehensive Linux server audit script
 # All features enabled by default: CPU, RAM, Disk, SMART, RAID, Network, I/O, Processes, GPU, fio, iperf3
 # No persistent files, everything stored in RAM and cleaned on exit
 
